@@ -14,6 +14,8 @@ KiCAD 教學示範用的 60% 機械鍵盤。
 git clone --recurse-submodules https://github.com/siderakb/kicad-keyboard-tutorial.git
 ```
 
+需要另外安裝 Footprint 庫：[ebastler/marbastlib](https://github.com/ebastler/marbastlib)。
+
 本專案使用的 KiCad 版本爲 `Ver 7.0.8`。
 
 ## 授權許可
